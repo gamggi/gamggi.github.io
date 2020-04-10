@@ -29,7 +29,7 @@ eviction-threshold:  노드의 최소 자원 임계값(노드의 리소스가 �
 
 ## allocatable값 변경하기 
 
-** kubectl 플래그 변경 (KubectlConfiguration 변경)**
+**kubectl 플래그 변경 (KubectlConfiguration 변경)**
 1.  KubectlConfiguration 파일 경로 얻기	 
 	\- kubeadm
 	```
